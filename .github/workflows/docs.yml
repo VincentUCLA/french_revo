@@ -12,6 +12,7 @@ jobs:
         run: |
           cp README.md Home.md
           sed -i 's/.md//g' Home.md
+          sed -i 's/.md//g' 12_who_ruled.md
           sed -i 's/12_who_ruled\///g' Home.md
       - name: Sync with local action
         uses: kai-tub/external-repo-sync-action@v1
