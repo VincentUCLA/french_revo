@@ -1,0 +1,23 @@
+name: docs
+on: push
+
+jobs:
+  sync_docs:
+    name: Sync docs to GitHub wiki
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current version
+        uses: actions/checkout@v2
+      - name: Create files to sync
+        run: |
+          cp README.md Home.md
+          sed -i 's/.md//g' Home.md
+          sed -i 's/12_who_ruled\///g' Home.md
+          sed -i 's/12_who_ruled\///g' 12_who_ruled.md
+      - name: Sync with local action
+        uses: kai-tub/external-repo-sync-action@v1
+        with:
+          source-directory: "."
+          include-patterns: "Home.md 12_who_ruled/*.md"
+        env:
+          GH_ACCESS_TOKEN: ${{ secrets.GH_PAT }}
