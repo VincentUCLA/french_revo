@@ -17,7 +17,7 @@
 1. 法语文学读的较多的朋友应该都知道巴黎和外省的对立，已经是烂梗了，因此笔者将“各省”一概译为外省
 1. `the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为“本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行”明显错误，应译为“本省基层的镇压机关，及充斥其中的好斗成员”
 1. 人物小传中，让邦·圣安德烈的`masterful`不应译为“专横”，而是“有掌控力”，或“能掌控局面”
-    1. 在这么一票人里，让邦连前一半的专横都排不进去（正论）
+    1. 在这么一票人里，论专横，让邦连前一半都排不进去（正论）
 
 ### 第一章
 
@@ -32,6 +32,25 @@
 1. 让邦·圣安德烈的这个后缀名，如书中所说，是由于波旁王朝的宗教迫害政策强加的，因此笔者尽量简译为让邦，下同
 1. `More than any other of the Twelve, Billaud gave intimations of the terrorist that he was to become.`感谢原译者把这段避讳了……
 1. `typical of the anonymous world that lies behind all revolutions.`这段的anonymous world就翻译成“普通人”（你要是高兴说第三等级也可以）就可以了，不必译为无名之辈，尽量使用中性词……
+
+### 第二章
+
+1. 党还是派？
+    1. “联邦派”还是“联邦党”？美国的联邦党，是汉密尔顿领导，鼓吹中央集权，高额关税，建立中央银行，本质是工业党的那么一个存在，和反对中央集权的吉伦特派，很显然不能混淆，因此应当按照旧例，译为联邦派叛乱
+    1. 吉伦特派过于缺乏组织了，因此实在不能译为吉伦特党，但后来联邦派叛乱中，译为吉伦特乱党是没啥错的；雅各宾派其实是有（非常不严密的）组织的，因此叫雅各宾派还是雅各宾党我是无所谓的，但我个人倾向于沿用雅各宾派的翻译
+    1. 同理，保王党这个也是约定俗成了
+1. 用词的倾向性：
+    1. 笔者在东三省边上长大，对于迪穆里埃叛逃，吉伦特乱党把土伦献给英国这种事，可以直接代入918，因此实在不能用“（迪穆里埃）脱离革命，投向反法联军”，“土伦港和那里全部的地中海舰队，拜不满的法国人所赐，落入了英国人之手”这种中性词评价
+    1. 内战就内战，胳膊肘往外拐实在太过分了
+1. `constituted authorities`这个机构的译名开放讨论，我个人认为可以翻译成合法当局，当然你也可以称之为地方政府（暴论）
+    1. 巴黎公社很显然不是来源于法律授权。。。。。。
+1. `national guard`很显然是国民自卫军，约定俗成
+1. `Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
+    1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇一样拿革命做生意，我译为“革命里的小气手艺人”
+    1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈，而罗老师认为巴雷尔忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
+    1. 实际上巴罗二人私交甚笃，这类话应该一概视为打情骂俏
+
+### 第三章
 
 ### 第四章
 
