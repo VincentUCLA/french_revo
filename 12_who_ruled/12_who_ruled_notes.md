@@ -15,13 +15,23 @@
 1. 原书作于1941年，那时的英语著作相较于今日，还是要繁难一些的，繁，指滥用SAT大词，难，指随意飚长难句，为了降低读者的阅读负担，应把这些句式简化
 1. 恐怖统治一词本身已经成为典故，因此不必调整
 1. 法语文学读的较多的朋友应该都知道巴黎和外省的对立，已经是烂梗了，因此笔者将“各省”一概译为外省
-1. `the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为`本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行`明显错误，应译为`本省基层的镇压机关，及充斥其中的好斗成员`
+1. `the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为“本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行”明显错误，应译为“本省基层的镇压机关，及充斥其中的好斗成员”
 1. 人物小传中，让邦·圣安德烈的`masterful`不应译为“专横”，而是“有掌控力”，或“能掌控局面”
     1. 在这么一票人里，让邦连前一半的专横都排不进去（正论）
 
 ### 第一章
 
-1. 
+1. 语气：虽然笔者本人是北方人，但反对在书面语里滥用口语体、儿化音，过度口语化和使用稀见词，都是增加读者阅读负担的行为
+    1. 文科也应该使用理工科文风，降低信息传播成本（暴论）
+1. `their nerves on edge from sheer fatigue`并非“精疲力尽时大家都容易着急上火”，而是“精疲力尽使人心烦意乱”
+1. `They were on the whole not very unusual people`这个翻译成“不是特别出色的人物”显然不够客观，应当译为“不是特别非同寻常的人物”
+    1. 卡诺在任何时代都可以算特别出色的人物，罗老师也是做题家中翘楚，即使是科洛也是很不错的演员啊！
+1. `He was preoccupied with an inner vision`，译成“他的内心执着于一个幻象”也是不够客观，应当译为“他执着于内心的愿景”
+    1. 虽然罗老师后来的行为，你说他是精神病也没什么大毛病，但是对于一个取得如此辉煌胜利的人，谩骂实在是有失客观，会降低谩骂者本人的可信度
+1. `But the real danger to France, and to the world as it turned out, was rather in the men of inflexible convictions, the conservatives who would accept no change, and the more heated patriots who would accept nothing short of their idea of perfection.`这个就直译了，作者是有屁股的，不必讳言，下略
+1. 让邦·圣安德烈的这个后缀名，如书中所说，是由于波旁王朝的宗教迫害政策强加的，因此笔者尽量简译为让邦，下同
+1. `More than any other of the Twelve, Billaud gave intimations of the terrorist that he was to become.`感谢原译者把这段避讳了……
+1. `typical of the anonymous world that lies behind all revolutions.`这段的anonymous world就翻译成“普通人”（你要是高兴说第三等级也可以）就可以了，不必译为无名之辈，尽量使用中性词……
 
 ### 第四章
 
