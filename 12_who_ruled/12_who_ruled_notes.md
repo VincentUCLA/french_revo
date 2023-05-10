@@ -15,7 +15,7 @@
 1. 原书作于1941年，那时的英语著作相较于今日，还是要繁难一些的，繁，指滥用SAT大词，难，指随意飚长难句，为了降低读者的阅读负担，应把这些句式简化
 1. 恐怖统治一词本身已经成为典故，因此不必调整
 1. 法语文学读的较多的朋友应该都知道巴黎和外省的对立，已经是烂梗了，因此笔者将“各省”一概译为外省
-1. `the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为“本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行”明显错误，应译为“本省基层的镇压机关，及充斥其中的好斗成员”
+1. 原书p.xiv，`the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为“本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行”明显错误，应译为“本省基层的镇压机关，及充斥其中的好斗成员”
 1. 人物小传中，让邦·圣安德烈的`masterful`不应译为“专横”，而是“有掌控力”，或“能掌控局面”
     1. 在这么一票人里，论专横，让邦连前一半都排不进去（正论）
 
@@ -23,15 +23,15 @@
 
 1. 语气：虽然笔者本人是北方人，但反对在书面语里滥用口语体、儿化音，过度口语化和使用稀见词，都是增加读者阅读负担的行为
     1. 文科也应该使用理工科文风，降低信息传播成本（暴论）
-1. `their nerves on edge from sheer fatigue`并非“精疲力尽时大家都容易着急上火”，而是“精疲力尽使人心烦意乱”
-1. `They were on the whole not very unusual people`这个翻译成“不是特别出色的人物”显然不够客观，应当译为“不是特别非同寻常的人物”
+1. 原书p4，`their nerves on edge from sheer fatigue`并非“精疲力尽时大家都容易着急上火”，而是“精疲力尽使人心烦意乱”
+1. 原书p5，`They were on the whole not very unusual people`这个翻译成“不是特别出色的人物”显然不够客观，应当译为“不是特别非同寻常的人物”
     1. 卡诺在任何时代都可以算特别出色的人物，罗老师也是做题家中翘楚，即使是科洛也是很不错的演员啊！
-1. `He was preoccupied with an inner vision`，译成“他的内心执着于一个幻象”也是不够客观，应当译为“他执着于内心的愿景”
+1. 原书p6，`He was preoccupied with an inner vision`，译成“他的内心执着于一个幻象”也是不够客观，应当译为“他执着于内心的愿景”
     1. 虽然罗老师后来的行为，你说他是精神病也没什么大毛病，但是对于一个取得如此辉煌胜利的人，谩骂实在是有失客观，会降低谩骂者本人的可信度
-1. `But the real danger to France, and to the world as it turned out, was rather in the men of inflexible convictions, the conservatives who would accept no change, and the more heated patriots who would accept nothing short of their idea of perfection.`这个就直译了，作者是有屁股的，不必讳言，下略
+1. 原书p9，`But the real danger to France, and to the world as it turned out, was rather in the men of inflexible convictions, the conservatives who would accept no change, and the more heated patriots who would accept nothing short of their idea of perfection.`这个就直译了，作者是有屁股的，不必讳言，下略
 1. 让邦·圣安德烈的这个后缀名，如书中所说，是由于波旁王朝的宗教迫害政策强加的，因此笔者尽量简译为让邦，下同
-1. `More than any other of the Twelve, Billaud gave intimations of the terrorist that he was to become.`感谢原译者把这段避讳了……
-1. `typical of the anonymous world that lies behind all revolutions.`这段的anonymous world就翻译成“普通人”（你要是高兴说第三等级也可以）就可以了，不必译为无名之辈，尽量使用中性词……
+1. 原书p12，`More than any other of the Twelve, Billaud gave intimations of the terrorist that he was to become.`感谢原译者把这段避讳了……
+1. 原书p14，`typical of the anonymous world that lies behind all revolutions.`这段的anonymous world就翻译成“普通人”（你要是高兴说第三等级也可以）就可以了，不必译为无名之辈，尽量使用中性词……
 
 ### 第二章
 
@@ -45,7 +45,7 @@
 1. `constituted authorities`这个机构的译名开放讨论，我个人认为可以翻译成合法当局，当然你也可以称之为地方政府（暴论）
     1. 巴黎公社很显然不是来源于法律授权。。。。。。
 1. `national guard`很显然是国民自卫军，约定俗成
-1. `Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
+1. 原书p40，`Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
     1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇、法布尔·德·埃格郎蒂纳、丹东（大雾）之流一样拿革命做生意，我译为“革命里的小气手艺人”
     1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈（如坚决反对对外扩张、输出革命，etc），而罗老师认为巴雷尔虽然忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
     1. 实际上巴罗二人私交甚笃，这类话应该一概视为打情骂俏（逃走）
@@ -58,7 +58,7 @@
 1. 为避免混淆，“军团”和“军队”应当指代不同的概念，军队泛指正规武装力量，军团特指共和国的11支armée，如北方军团（Armée du Nord）
     1. 再往后来的年代，这些单位会被称之为集团军army group（或方面军front）
 1. headquarter在这个场景下应当译为“指挥部”或“司令部”，而非“总部”
-1. `He resembled Barere and Saint-Andre, and differed from Robespierre, Saint-Just, Collot and Billaud, in having a reasonably well adjusted personality. He was not subject to complexes, phobias or obsessions; he had no delusions of grandeur; he was as free from messianic ideas as any ardent revolutionist could be.`
+1. 原书p85，`He resembled Barere and Saint-Andre, and differed from Robespierre, Saint-Just, Collot and Billaud, in having a reasonably well adjusted personality. He was not subject to complexes, phobias or obsessions; he had no delusions of grandeur; he was as free from messianic ideas as any ardent revolutionist could be.`
     1. 原翻译：他待人接物比较平和，这一点和巴雷尔、圣安德烈接近，而有别于罗伯斯庇尔、圣茹斯特、科洛和比约。他没有什么**变态心理、恐惧症和强迫症**；也没有**产生过伟大的幻觉**；不像其他的狂热革命者，弥赛亚情结与他无缘。
     1. 原翻译吐槽：
         1. complex在英文中，可以刻画弗洛伊德意义上的“情结”，比如俄狄浦斯情结，等。在这里很明显是指桑骂槐，嘲讽科洛由于出身微贱，性情急躁，有病态仇富心理。翻译成变态心理，已经到谩骂的程度了。
@@ -69,30 +69,30 @@
 
 ### 第五章
 
-1. `This calendar makes necessary a digression.`译为“使得偏向不可避免”有误，应为“使（人们的）日常生活充满寓意”。
+1. 原书p111，`This calendar makes necessary a digression.`译为“使得偏向不可避免”有误，应为“使（人们的）日常生活充满寓意”。
     1. digression当然只是本书原作者的一种观点，我们不必沿袭这一观点（）
-1. `one of the first men arrested because of the Foreign Plot was the notorious agitator Maillard, who had led the famous march of the women on Versailles in October 1789.`，很显然`notorious agitator`不是“众所周知的”，而是“知名的煽动家”
-1. `If there was any sincerity in Herault's character, as there may have been, since he had made sacrifices for the Revolution, it was so encrusted with affectation as to be well hidden from sight; and certainly Robespierre and Saint-Just would not have the subtlety to detect it.`
+1. 原书p115，`one of the first men arrested because of the Foreign Plot was the notorious agitator Maillard, who had led the famous march of the women on Versailles in October 1789.`，很显然`notorious agitator`不是“众所周知的”，而是“知名的煽动家”
+1. 原书p116，`If there was any sincerity in Herault's character, as there may have been, since he had made sacrifices for the Revolution, it was so encrusted with affectation as to be well hidden from sight; and certainly Robespierre and Saint-Just would not have the subtlety to detect it.`
     1. 原翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，既然他也为革命做出了牺牲——那上面也是抹了一层本应秘不示人的造作。当然，罗伯斯庇尔和圣茹斯特也没敏锐地觉察到这点
     1. 笔者翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，毕竟他也为革命做出了牺牲——也被掩盖在矫揉造作的外壳之下，不可示人。显然，罗伯斯庇尔和圣茹斯特并没有敏锐到理解他。
-1. `He had before him the reports of government observers, who declared that the whole movement was superficial, that the same people who were fierce rationalists when in crowds together often relapsed into their old ideas when they went home, fearing the wrath of God or the death of their unbaptized children.`，能把rationalist翻译成民族主义者，足见原译者确实没有用机翻，单纯是眼花（逃走）
-1. `The exhibition in Notre-Dame was a trial of strength between the city leaders and the Convention.`
+1. 原书p120，`He had before him the reports of government observers, who declared that the whole movement was superficial, that the same people who were fierce rationalists when in crowds together often relapsed into their old ideas when they went home, fearing the wrath of God or the death of their unbaptized children.`，能把rationalist翻译成民族主义者，足见原译者确实没有用机翻，单纯是眼花（逃走）
+1. 原书p120，`The exhibition in Notre-Dame was a trial of strength between the city leaders and the Convention.`
     1. 原翻译：圣母院的展览活动是城市领袖和国民公会之间的一场权力较量。
     1. 这个很明显不是展览……
     1. 笔者翻译：圣母院的理性节，是城市领袖对国民公会的又一次力量展示。（联系上下文，trial应该被翻译成试验）
 1. 再次重申一遍，德国当时并不存在，克洛茨是普鲁士人
-1. `Others, even patriots, lagged behind the official views of Paris. Even patriots could not be trusted, and behind the forefront of articulate and demonstrative patriots lay the vast mass of Frenchmen, men and women who did not want a Republic, and who thought of their new rulers as ungodly regicides.`
+1. 原书p124，`Others, even patriots, lagged behind the official views of Paris. Even patriots could not be trusted, and behind the forefront of articulate and demonstrative patriots lay the vast mass of Frenchmen, men and women who did not want a Republic, and who thought of their new rulers as ungodly regicides.`
     1. 原翻译：其他人，甚至是爱国者，都落后于巴黎的官方观点。**甚至**爱国者也**不能够给予信任**，而在那些口若悬河、好外露感情的爱国者组成的前线后面，是一大群不要共和国的法国男男女女，他们认为他们的新统治者是**邪恶**的弑君者。
     1. “不能够给予信任”明显语气过重，forefront应译为前沿（指思想进步与否），ungodly应译为渎神
     1. 笔者翻译：其他人，甚至是爱国者，都落后于巴黎的官方观点。**即使是**爱国者也**不能信赖**，而在那些口若悬河、感情外露的爱国者组成的**前沿**后面，是一大群不要共和国的法国男男女女，他们认为他们的新统治者是**渎神**的弑君者。
-1. `Saint-Just's law of October 10, proclaiming the government revolutionary until the peace, granted the Committee a certain authority over the constituted bodies.`
+1. 原书p124，`Saint-Just's law of October 10, proclaiming the government revolutionary until the peace, granted the Committee a certain authority over the constituted bodies.`
     1. 这里的constituted bodies很明显指政府机关，而非原翻译中的“政治团体”（你说救国委员会对雅各宾俱乐部有权力，这个已经不是雅各宾专政，而是斯大林体制了）
     1. authority也不是特权的意思，而是权威
-1. `Some control was even won over the Jacobins`
+1. 原书p125，`Some control was even won over the Jacobins`
     1. 原翻译：甚至有些控制权还超过了雅各宾派
-    1. 应译为：甚至获得了一些对雅各宾俱乐部的控制权
-1. 来了来了，大的要来了，霜月14日法令，比约演讲中强烈谴责了联邦制federalism，被译为封建制（）
-1. `So long as the laws to have their full execution, pass through the successive interposition of secondary authorities, each of these authorities becomes the supreme arbiter of legislation; and the first which receives a law at the moment when it is enacted is undoubtedly a more powerful authority than the lawmaker, because it may suspend or stop execution as it pleases, and so destroy the law's existence and effect.`
+    1. 应译为：甚至获得了一些对雅各宾俱乐部的控制权（斯大林体制，他来了）
+1. 原书p125，霜月14日法令，比约演讲中强烈谴责了联邦制federalism，被译为封建制（）
+1. 原书p125，`So long as the laws to have their full execution, pass through the successive interposition of secondary authorities, each of these authorities becomes the supreme arbiter of legislation; and the first which receives a law at the moment when it is enacted is undoubtedly a more powerful authority than the lawmaker, because it may suspend or stop execution as it pleases, and so destroy the law's existence and effect.`
     1. 原翻译：只要法律能得以完全执行，**排除下级部门的连续**干预，那么这些**下级部门**都能成为法律的仲裁者；那些法律颁布之际**最先**领受法律的机关无疑比立法者更有权力，因为只要它愿意，它也可以中止或者取消法律的实施，进而破坏其存在与效力。
     1. pass through很明显是经过，secondary authorities应指各级地方政府
     1. the first也有歧义，在这里联系上下文，应该是最基层地方政府，中文里说，破家的县令，灭门的知府
@@ -100,11 +100,11 @@
 
 ### 第六章
 
-1. shop在手工业应指手工工场，而非商店。
-1. 众所周知，18世纪没有工厂，只有手工业工场
-1. 同理，small arms指轻武器，而非“小件武器”
-1. locksmith是锁匠，钳工也是19世纪才有的工作
-1. republic of virtue在法国大革命的语境下，很显然是指美德共和国，是个专有名词
+1. 原书p139-140
+    1. shop在手工业应指手工作坊，而非商店。众所周知，18世纪没有工厂，只有手工作坊
+    1. 同理，small arms指轻武器，而非“小件武器”
+    1. locksmith是锁匠，钳工也是19世纪才有的工作
+1. 原书p142，republic of virtue在法国大革命的语境下，很显然是指美德共和国，是个专有名词
 1. 原书p149，`It thus lay with the most active local politicians`，此处的active显然指活跃，而非激进。
 1. 原书p150，immortality指灵魂不灭，而非长生不老
 1. 原书p151，the Committee in Paris指巴黎的委员会，而非巴黎公社
