@@ -36,7 +36,7 @@
 ### 第二章
 
 1. 党还是派？
-    1. “联邦派”还是“联邦党”？美国的联邦党，是汉密尔顿领导，鼓吹中央集权，高额关税，建立中央银行，本质是工业党的那么一个存在，和反对中央集权的吉伦特派，很显然不能混淆，因此应当按照旧例，译为联邦派叛乱
+    1. “联邦派”还是“联邦党”？美国的联邦党，是（华盛顿的干儿子）亚历山大·汉密尔顿领导，鼓吹中央集权，高额关税，建立中央银行，本质是工业党的那么一个存在，和反对中央集权的吉伦特派，很显然不能混淆，因此应当按照旧例，译为联邦派叛乱
     1. 吉伦特派过于缺乏组织了，因此实在不能译为吉伦特党，但后来联邦派叛乱中，译为吉伦特乱党是没啥错的；雅各宾派其实是有（非常不严密的）组织的，因此叫雅各宾派还是雅各宾党我是无所谓的，但我个人倾向于沿用雅各宾派的翻译
     1. 同理，保王党这个也是约定俗成了
 1. 用词的倾向性：
@@ -48,7 +48,7 @@
 1. `Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
     1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇一样拿革命做生意，我译为“革命里的小气手艺人”
     1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈，而罗老师认为巴雷尔忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
-    1. 实际上巴罗二人私交甚笃，这类话应该一概视为打情骂俏
+    1. 实际上巴罗二人私交甚笃，这类话应该一概视为打情骂俏（逃走）
 
 ### 第三章
 
@@ -64,5 +64,7 @@
     1. digression当然只是本书原作者的一种观点，我们不必沿袭这一观点（）
 1. `one of the first men arrested because of the Foreign Plot was the notorious agitator Maillard, who had led the famous march of the women on Versailles in October 1789.`，很显然`notorious agitator`不是“众所周知的”，而是“知名的煽动家”
 1. `If there was any sincerity in Herault's character, as there may have been, since he had made sacrifices for the Revolution, it was so encrusted with affectation as to be well hidden from sight; and certainly Robespierre and Saint-Just would not have the subtlety to detect it.`
-    1. 原翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，毕竟他也为革命做出了牺牲——那上面也是抹了一层本应秘不示人的造作。当然，罗伯斯庇尔和圣茹斯特也没敏锐地觉察到这点
+    1. 原翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，既然他也为革命做出了牺牲——那上面也是抹了一层本应秘不示人的造作。当然，罗伯斯庇尔和圣茹斯特也没敏锐地觉察到这点
     1. 笔者翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，毕竟他也为革命做出了牺牲——也被掩盖在矫揉造作的外壳之下，不可示人。显然，罗伯斯庇尔和圣茹斯特并没有敏锐到理解他。
+1. `He had before him the reports of government observers, who declared that the whole movement was superficial, that the same people who were fierce rationalists when in crowds together often relapsed into their old ideas when they went home, fearing the wrath of God or the death of their unbaptized children.`，能把rationalist翻译成民族主义者，足见原译者确实没有用机翻，单纯是眼花（逃走）
+
