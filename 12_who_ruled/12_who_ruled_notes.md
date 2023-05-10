@@ -76,4 +76,24 @@
     1. 原翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，既然他也为革命做出了牺牲——那上面也是抹了一层本应秘不示人的造作。当然，罗伯斯庇尔和圣茹斯特也没敏锐地觉察到这点
     1. 笔者翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，毕竟他也为革命做出了牺牲——也被掩盖在矫揉造作的外壳之下，不可示人。显然，罗伯斯庇尔和圣茹斯特并没有敏锐到理解他。
 1. `He had before him the reports of government observers, who declared that the whole movement was superficial, that the same people who were fierce rationalists when in crowds together often relapsed into their old ideas when they went home, fearing the wrath of God or the death of their unbaptized children.`，能把rationalist翻译成民族主义者，足见原译者确实没有用机翻，单纯是眼花（逃走）
-
+1. `The exhibition in Notre-Dame was a trial of strength between the city leaders and the Convention.`
+    1. 原翻译：圣母院的展览活动是城市领袖和国民公会之间的一场权力较量。
+    1. 这个很明显不是展览……
+    1. 笔者翻译：圣母院的理性节，是城市领袖对国民公会的又一次力量展示。（联系上下文，trial应该被翻译成试验）
+1. 再次重申一遍，德国当时并不存在，克洛茨是普鲁士人
+1. `Others, even patriots, lagged behind the official views of Paris. Even patriots could not be trusted, and behind the forefront of articulate and demonstrative patriots lay the vast mass of Frenchmen, men and women who did not want a Republic, and who thought of their new rulers as ungodly regicides.`
+    1. 原翻译：其他人，甚至是爱国者，都落后于巴黎的官方观点。**甚至**爱国者也**不能够给予信任**，而在那些口若悬河、好外露感情的爱国者组成的前线后面，是一大群不要共和国的法国男男女女，他们认为他们的新统治者是**邪恶**的弑君者。
+    1. “不能够给予信任”明显语气过重，forefront应译为前沿（指思想进步与否），ungodly应译为渎神
+    1. 笔者翻译：其他人，甚至是爱国者，都落后于巴黎的官方观点。**即使是**爱国者也**不能信赖**，而在那些口若悬河、感情外露的爱国者组成的**前沿**后面，是一大群不要共和国的法国男男女女，他们认为他们的新统治者是**渎神**的弑君者。
+1. `Saint-Just's law of October 10, proclaiming the government revolutionary until the peace, granted the Committee a certain authority over the constituted bodies.`
+    1. 这里的constituted bodies很明显指政府机关，而非原翻译中的“政治团体”（你说救国委员会对雅各宾俱乐部有权力，这个已经不是雅各宾专政，而是斯大林体制了）
+    1. authority也不是特权的意思，而是权威
+1. `Some control was even won over the Jacobins`
+    1. 原翻译：甚至有些控制权还超过了雅各宾派
+    1. 应译为：甚至获得了一些对雅各宾俱乐部的控制权
+1. 来了来了，大的要来了，霜月14日法令，比约演讲中强烈谴责了联邦制federalism，被译为封建制（）
+1. `So long as the laws to have their full execution, pass through the successive interposition of secondary authorities, each of these authorities becomes the supreme arbiter of legislation; and the first which receives a law at the moment when it is enacted is undoubtedly a more powerful authority than the lawmaker, because it may suspend or stop execution as it pleases, and so destroy the law's existence and effect.`
+    1. 原翻译：只要法律能得以完全执行，**排除下级部门的连续**干预，那么这些**下级部门**都能成为法律的仲裁者；那些法律颁布之际**最先**领受法律的机关无疑比立法者更有权力，因为只要它愿意，它也可以中止或者取消法律的实施，进而破坏其存在与效力。
+    1. pass through很明显是经过，secondary authorities应指各级地方政府
+    1. the first也有歧义，在这里联系上下文，应该是最基层地方政府，中文里说，破家的县令，灭门的知府
+    1. 笔者翻译：只要法律得以完全执行，**经过下辖机关一级又一级地**干预，那么这些**下辖机关**都能成为法律的仲裁者；那些法律颁布之际**在最基层**领受法律的机关，无疑比立法者更有权力，因为只要它愿意，它也可以中止或者取消法律的实施，进而破坏其存在与效力。
