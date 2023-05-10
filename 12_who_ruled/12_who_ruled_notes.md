@@ -67,7 +67,6 @@
 1. 词语辨析：anarchy在英文中指无政府状态，不是无政府主义！
 1. 国民公会代表René Levasseur应翻译为勒瓦索尔，而非勒索瓦尔（逃走）
 
-
 ### 第五章
 
 1. `This calendar makes necessary a digression.`译为“使得偏向不可避免”有误，应为“使（人们的）日常生活充满寓意”。
