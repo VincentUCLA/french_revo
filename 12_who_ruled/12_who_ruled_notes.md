@@ -62,3 +62,5 @@
 
 1. `This calendar makes necessary a digression.`译为“使得偏向不可避免”有误，应为“使（人们的）日常生活充满寓意”。
     1. digression当然只是本书原作者的一种观点，我们不必沿袭这一观点（）
+1. `one of the first men arrested because of the Foreign Plot was the notorious agitator Maillard, who had led the famous march of the women on Versailles in October 1789.`，很显然`notorious agitator`不是“众所周知的”，而是“知名的煽动家”
+
