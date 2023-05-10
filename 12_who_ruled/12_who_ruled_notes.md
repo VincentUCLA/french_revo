@@ -105,6 +105,11 @@
 1. 同理，small arms指轻武器，而非“小件武器”
 1. locksmith是锁匠，钳工也是19世纪才有的工作
 1. republic of virtue在法国大革命的语境下，很显然是指美德共和国，是个专有名词
+1. 原书p149，`It thus lay with the most active local politicians`，此处的active显然指活跃，而非激进。
+1. 原书p150，immortality指灵魂不灭，而非长生不老
+1. 原书p151，the Committee in Paris指巴黎的委员会，而非巴黎公社
+1. 原书p152，Auvergne是旧省，革命后作为行政区划已不存在，类似今日华北，不能称为华北省
+1. 原书p152，radical在法国政治语境下，应译为激进，而非极端
 
 ### 第七章
 
