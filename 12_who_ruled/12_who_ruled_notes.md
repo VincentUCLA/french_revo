@@ -46,8 +46,8 @@
     1. 巴黎公社很显然不是来源于法律授权。。。。。。
 1. `national guard`很显然是国民自卫军，约定俗成
 1. `Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
-    1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇一样拿革命做生意，我译为“革命里的小气手艺人”
-    1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈，而罗老师认为巴雷尔忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
+    1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇、法布尔·德·埃格郎蒂纳、丹东（大雾）之流一样拿革命做生意，我译为“革命里的小气手艺人”
+    1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈（如坚决反对对外扩张、输出革命，etc），而罗老师认为巴雷尔虽然忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
     1. 实际上巴罗二人私交甚笃，这类话应该一概视为打情骂俏（逃走）
 
 ### 第三章
@@ -57,6 +57,16 @@
 1. 众所周知，1793-1794年的德意志只是一个地理概念，因此所有的“德国”均应视为误译
 1. 为避免混淆，“军团”和“军队”应当指代不同的概念，军队泛指正规武装力量，军团特指共和国的11支armée，如北方军团（Armée du Nord）
     1. 再往后来的年代，这些单位会被称之为集团军army group（或方面军front）
+1. headquarter在这个场景下应当译为“指挥部”或“司令部”，而非“总部”
+1. `He resembled Barere and Saint-Andre, and differed from Robespierre, Saint-Just, Collot and Billaud, in having a reasonably well adjusted personality. He was not subject to complexes, phobias or obsessions; he had no delusions of grandeur; he was as free from messianic ideas as any ardent revolutionist could be.`
+    1. 原翻译：他待人接物比较平和，这一点和巴雷尔、圣安德烈接近，而有别于罗伯斯庇尔、圣茹斯特、科洛和比约。他没有什么**变态心理、恐惧症和强迫症**；也没有**产生过伟大的幻觉**；不像其他的狂热革命者，弥赛亚情结与他无缘。
+    1. 原翻译吐槽：
+        1. complex在英文中，可以刻画弗洛伊德意义上的“情结”，比如俄狄浦斯情结，等。在这里很明显是指桑骂槐，嘲讽科洛由于出身微贱，性情急躁，有病态仇富心理。翻译成变态心理，已经到谩骂的程度了。
+        1. delusions of grandeur很明显也是为了影射罗老师和小圣的inner vision，一个没有剥削没有压迫的社会，在这里翻译成伟大的幻觉，写的跟精神病一样。
+    1. 笔者翻译：他待人接物比较平和，这一点和巴雷尔、让邦·圣安德烈相近，而有别于罗伯斯庇尔、圣茹斯特、科洛和比约。他没有什么**由过去的人生经历造成的情结、恐惧和痴迷**；也没有**什么崇高的愿景**；不像其他狂热的革命者，弥赛亚情结与他无缘。
+1. 词语辨析：anarchy在英文中指无政府状态，不是无政府主义！
+1. 国民公会代表René Levasseur应翻译为勒瓦索尔，而非勒索瓦尔（逃走）
+
 
 ### 第五章
 
