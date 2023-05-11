@@ -104,7 +104,7 @@
     1. shop在手工业应指手工作坊，而非商店。众所周知，18世纪没有工厂，只有手工作坊
     1. 同理，small arms指轻武器，而非“小件武器”
     1. locksmith是锁匠，钳工也是19世纪才有的工作
-1. 原书p142，republic of virtue在法国大革命的语境下，很显然是指美德共和国，是个专有名词
+1. 原书p142，republic of virtue在法国大革命的语境下，很显然是指罗伯斯庇尔设想的美德共和国，是个专有名词
 1. 原书p149，`It thus lay with the most active local politicians`，此处的active显然指活跃，而非激进。
 1. 原书p150，immortality指灵魂不灭，而非长生不老
 1. 原书p151，the Committee in Paris指巴黎的委员会，而非巴黎公社
@@ -114,8 +114,19 @@
 ### 第七章
 
 1. 原书p155，`Lyons was a doomed city`，翻译成“里昂被屠确为事实”，太不客观，中文中的屠城，指的是无差别杀戮，而里昂是经过革命审判的有组织处决，应按照原文，翻译成“里昂末日将近”。
+1. 原书p157，`In denouncing the rich he apparently had in mind, not a collective economy, but a country of equally small independent tradesmen, individualistic and free, to the point where one man's existence did not depend on the existence of another. This was a dream.`
+    1. 原翻译：在谴责富人的时候，显然他脑子里想的不是集体经济，而是一个由**经营小型生意的独立商人**组成的国家，他们**被视为个体并拥有自由**，**任何**人的生存都**不由他人决定**。这是一个梦想。
+    1. 这段是对科洛空想社会主义观点的讨论，首先tradesman在英文中就有多义，既可作手工业者义，也可作商人义，因此用小商人来概括就不够全面，应译为小私有者
+    1. individualistic and free，指经济上的独立和自由经营，同理，depend on在这里指经济上的依赖
+    1. 笔者翻译：在谴责富人的时候，显然他脑子里想的不是集体经济，而是一个由**同等规模的小私有者**组成的国家，他们**独立经营，拥有商业自由**，**每个**人的生存都**不依赖于他人**。这是一个梦想。
 1. 原书p159，你说富歇脾气火爆我就想乐，要是富歇真的脾气火爆，那后面一堆事都不会发生
-
+1. 原书p159，此处原书`Fouche a onetime professor of physics`有误，当时的物理学还没有发达到能在普通的修会搞出教授来的程度，富歇不过是修会里教科学的老师而已。
+1. 原书p159，`Collot was a rake, Fouche a respectable family man.`这里的意思肯定不是“富歇出身于一个受人尊敬的家庭”，而是说，与一般认为此人毫无人格相反，此人很顾家。
+    1. 此处的respectable应该视为是反讽，毕竟我真没听说过有人respect富歇
+1. 原书p165，`"The explosion of mines, etc., the devouring activity of flame can alone express the omnipotence of the people; its will cannot be checked like that of tyrants; it must have the effect of thunder." Collot might have recalled that thunder in itself is only a loud noise, which produces few effects except sometimes to turn milk sour.`原文末尾句纯属主观臆测，译文中删除。
+1. 原书p165，`He thought of his mission as a visitation of justice, in which men from one city came to work their will upon those of another.`
+    1. `a visitation of justice`很显然不是指司法巡视，应译为天降正义
+    1. 后半句话赘余，译文中删除
 
 ### 第八章
 
