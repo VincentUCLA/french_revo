@@ -127,6 +127,7 @@
 1. 原书p165，`He thought of his mission as a visitation of justice, in which men from one city came to work their will upon those of another.`
     1. `a visitation of justice`很显然不是指司法巡视，应译为天降正义
     1. 后半句话赘余，译文中删除
+1. 原书p175：men of little scruple，应当翻译为毫无原则
 
 ### 第八章
 
