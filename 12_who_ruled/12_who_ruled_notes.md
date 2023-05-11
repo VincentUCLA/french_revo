@@ -71,6 +71,8 @@
 
 1. 原书p111，`This calendar makes necessary a digression.`译为“使得偏向不可避免”有误，应为“使（人们的）日常生活充满寓意”。
     1. digression当然只是本书原作者的一种观点，我们不必沿袭这一观点（）
+1. 原书p114，`The technique was to threaten revolutionary legislation`很显然不是恐吓革命司法机关，而是用革命司法机关恐吓，语序全错。
+1. 原书p115，`Taking advantage of his position on the committee of the Convention charged with India Company affairs,`这里的committee很显然不是指救国委员会……
 1. 原书p115，`one of the first men arrested because of the Foreign Plot was the notorious agitator Maillard, who had led the famous march of the women on Versailles in October 1789.`，很显然`notorious agitator`不是“众所周知的”，而是“知名的煽动家”
 1. 原书p116，`If there was any sincerity in Herault's character, as there may have been, since he had made sacrifices for the Revolution, it was so encrusted with affectation as to be well hidden from sight; and certainly Robespierre and Saint-Just would not have the subtlety to detect it.`
     1. 原翻译：如果说埃罗的性格里还有什么真诚的成分——应该有过一些，既然他也为革命做出了牺牲——那上面也是抹了一层本应秘不示人的造作。当然，罗伯斯庇尔和圣茹斯特也没敏锐地觉察到这点
