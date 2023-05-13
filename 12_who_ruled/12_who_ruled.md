@@ -21,7 +21,6 @@
 
 ## 目录
 
-1. [前言](./12_who_ruled_preface.md)
 1. [12委员是谁？](./12_who_ruled_chapter01.md)
 1. [革命的第5个夏天](./12_who_ruled_chapter02.md)
 1. [组织恐怖](./12_who_ruled_chapter03.md)
@@ -38,6 +37,7 @@
 1. [欧洲热潮](./12_who_ruled_chapter14.md)
 1. [热月](./12_who_ruled_chapter15.md)
 1. [终曲](./12_who_ruled_coda.md)
+1. [前言](./12_who_ruled_preface.md)
 1. [校对者笔记](./12_who_ruled_notes.md)
 
 ## 参考地图
