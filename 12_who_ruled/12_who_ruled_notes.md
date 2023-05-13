@@ -157,6 +157,7 @@
     1. Tribunat，护民院
 1. 原书p390：Grand Army既然用了大写，就是专有名词，特指拿破仑的大军团
 1. 原书p392：原书此处发生了逻辑上的自相矛盾，兰代和马恩省的普里厄并没有成为`daily engaged in ordinary business, reliable and solid citizens, preeminently bourgeois, who however had once astounded the world`，与马恩省的普里厄后来参与雅各宾派的牧月起义，兰代参与巴贝夫平等派密谋，自相矛盾，此处保留作者原意，由读者自行判断
-1. 原书p393：原书说科多尔省的普里厄热月之后没怎么参与公共事务，属于事实错误。按照法语维基百科，科多尔省的普里厄在热月国民公会和督政府期间，完成了设计公制度量衡的工作，在热月党的攻讦下保护了巴黎综合理工学院（即X）。应当写为，“科多尔省的普里厄在热月之后投身于科学和教育事业”
+    1. `withheld their sympathies from the government` withhold... from，指拒绝，译为“仍不让政府知道其同情”明显有误，应译为“仍拒绝对政府保持同情”
+1. 原书p393：原书说科多尔省的普里厄热月之后没怎么参与公共事务，属于事实错误。按照法语维基百科，科多尔省的普里厄在热月国民公会和督政府期间，完成了设计公制度量衡的工作，在热月党的攻讦下保护了巴黎综合理工学院（即X）。
 1. 原书p393：科多尔省的普里厄，和我们熟知的卡诺一样，从未被正式授予minister of munitions职务（卡诺老师是minister of war），应当译为在救国委员会里负责协调军需
 1. 原书p394：`It was a continuation of his diatribes in the Convention`，此处译为“延续了对公会的抨击”逻辑和事实均为错误，原文指在国民公会的谴责，而非对国民公会的谴责，谴责的对象是英国人，而非国民公会
