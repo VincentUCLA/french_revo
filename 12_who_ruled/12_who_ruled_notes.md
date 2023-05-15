@@ -140,8 +140,9 @@
 ### 第九章
 
 1. 原书p203：for an invasion of England，指入侵英国，如果是来自英国的入侵，应该用invasion from England
-1. 原书p207：xxxx in command at yyyy指在yyyy指挥的xxxx
+1. 原书p207：xxxx in command at yyyy指在yyyy指挥的xxxx，并非原译文中的司令
 1. 原书p209：ship of the line是专有名词，特指战列舰
+1. 原书p218：the criminals in the galleys是个比喻，因为很显然18世纪桨帆船已经灭绝。此处应该比喻布雷斯特有条不紊的造船工程，不应指代桨帆船上划船的犯人。
 
 ### 第十章
 
