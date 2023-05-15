@@ -151,5 +151,5 @@
 [^3]: 米迪，指连接加龙河和地中海的运河，建于1667-1694年，也叫南运河。因此在法语里，Midi指代南方
 [^4]: Barère de Vieuzac，意为“维厄扎卡的巴雷尔”，是贵族名叫法，以封地为姓氏。
 [^5]: Académie des Jeux floraux，花冠会是一种诗歌大赛，获胜者的奖品是花束。
-[^6]: 指比约-瓦伦的著作《法国部长们的专制统治，对民族权力、自然法则、习俗、司法、人民利益和君主个人利益的压迫》（Despotisme des ministres de France, combattu par les droits de la nation, par les lois fondamentales, par les ordonnances, par les jurisprudences..., enfin par les intérêts du peuple et l'avantage personnel du monarque）
+[^6]: 指比约-瓦伦的著作《法国大臣们的专制统治，对民族权力、自然法则、习俗、司法、人民利益和君主个人利益的压迫》（Despotisme des ministres de France, combattu par les droits de la nation, par les lois fondamentales, par les ordonnances, par les jurisprudences..., enfin par les intérêts du peuple et l'avantage personnel du monarque）
 [^7]: 此处可能指Lucius Junius Brutus，古代传说人物，罗马共和国首任执政官，领导推翻王政，曾为镇压贵族复辟王政，公开处决自己的两个儿子。

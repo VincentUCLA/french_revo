@@ -44,7 +44,7 @@
 
 旧制度末年法国行省（provinces）地图
 
-![旧制度末年法国行省地图](https://upload.wikimedia.org/wikipedia/commons/b/be/Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg)
+![旧制度末年法国行省地图](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg/2440px-Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg)
 
 旧制度末年各省议会（不隶属于巴黎议会的各省，被托克维尔称之为“三级会议省”）
 
@@ -53,7 +53,7 @@
 1790年国民制宪议会订立的83个新省（department）地图
 
 （departments划界古今流变不大，1790年时巴黎没有分的那么细）
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg/2440px-Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg
 ![83新省地图](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D%C3%A9partements_et_provinces_de_France.svg/2190px-D%C3%A9partements_et_provinces_de_France.svg.png?uselang=fr)
 
 法国地形图
