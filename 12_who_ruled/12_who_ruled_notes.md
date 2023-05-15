@@ -139,6 +139,10 @@
 
 ### 第九章
 
+1. 原书p203：for an invasion of England，指入侵英国，如果是来自英国的入侵，应该用invasion from England
+1. 原书p207：xxxx in command at yyyy指在yyyy指挥的xxxx
+1. 原书p209：ship of the line是专有名词，特指战列舰
+
 ### 第十章
 
 ### 第十一章
