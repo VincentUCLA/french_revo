@@ -3,19 +3,19 @@
 1. 人名：应当统一按照新华社译名规范，不常见人名（如科洛·德布瓦）按照汉语较顺口的方式翻译，尽可能较少在译名里出现褒贬义汉字
     1. 过早确立的译名，如罗伯斯庇尔，无法调整了，而且罗伯斯比尔这个译名也并不顺口
     1. 当然科洛此人，可以认为德布瓦这个译名会把他的姓氏和贵族姓氏前缀（de）相混淆，但本书读者应该一般都知道科洛老师的出身（因为是演员，所以叫老师），不会混淆，对这个译名欢迎指正
-    1. 笔者人在海外，买不到新华社《世界人名翻译大辞典》……因此欢迎指正
     1. Albert Mathiez因为有一本发行很早，又十分知名的《法国革命史》（1945年秋脱稿，1947年春商务印书馆首次出版，1957年三联书店重印，1963年再次重印，笔者手里这本pdf是1972年重印），只好因循旧例，译为马迪厄，无法按照新华社翻译。
-        1. 毛泽东主席1970年会晤西哈努克亲王时，称为马蒂叶（“写法国革命史的人很多，读过法国马蒂叶写的法国革命史，有朝气；读过一个苏联人写的，太简单；还看过一个英国人写的，英国人写法国的事，总是要骂娘的了。”）
+        1. 毛泽东同志1970年会晤西哈努克亲王时，称为马蒂叶（“写法国革命史的人很多，读过法国马蒂叶写的法国革命史，有朝气；读过一个苏联人写的，太简单；还看过一个英国人写的，英国人写法国的事，总是要骂娘的了。”）
+    1. 新华社《世界人名翻译大辞典》中将Billaud-Varenne译为俾约-瓦伦，笔者极其反对在译名中出现褒贬义汉字，此处一律译为比约-瓦伦
 1. 用词：本书原译者，出于一些原因，回避了一些现代汉语中极其常见的用词，如群众（书中多译为民众，第三章中多处按照原作译为侵犯者）、集会、专政（书中多译为独裁），等，为还原历史本来面貌，应当采用现代汉语中常见词汇。
-    1. 对群众运动中的呼吁，应当多使用中性词汇，尽量不使用贬义词汇
+    1. 对群众运动中的呼吁，应多使用中性词汇，尽量避免使用贬义词汇
     1. dictatorship在汉语中可译为独裁、专制或专政，在本书中译为独裁明显是误译，救国委员会并非罗伯斯庇尔一人独裁，在描述政体时应译为专政，在刻画统治策略时，应译为专制。独裁一词，在对罗伯斯比尔的诽谤攻讦中可以保留，描述后来拿破仑的政体也是恰当的
     1. 当然几次巴黎民众起义，也确实是胁迫国民公会转变政策，这个无须讳言，用罗老师原话就是`Citoyen, vouliez-vous une révolution sans révolution?`（公民们，你们想要一场没有革命的革命吗？）
-1. 句法：法国大革命是人类历史中破天荒的事件，是人类新纪元的开端，因此在叙事时，应尽量简洁有力，多用主动句（“把……”），少用被动句，多用短句，少用长句，对原作者的长句和被动语态，应当尽量rephrase为短句和主动语态，降低读者的阅读负担。
-1. 风格：为照顾不同年龄段、文化程度的读者需求，译文中应减少超过我国九年义务教育阶段词汇量的稀见词，如“畏葸不前”
+1. 文风：法国大革命是人类历史中破天荒的事件，是人类新纪元的开端，因此在叙事时，应尽量简洁有力，多用主动句（“把……”），少用被动句，多用短句，少用长句，对原作者的长难句和被动语态，应尽量rephrase为短句和主动语态，降低读者的阅读负担。
+1. 用词：为照顾不同年龄段、文化程度的读者需求，译文中应减少超过我国九年义务教育阶段词汇量的稀见词，如“畏葸不前”
 1. 引文：法国大革命说的是法国的事，因此括号里的引文凡是英语的，我一概删去，如果精力允许，会找时间补齐法语source
 1. 书名：这个无力吐槽了，大家骂的比我好，这肯定是旺代老乡翻译的
 1. 原书作于1941年，那时的英语著作相较于今日，还是要繁难一些的，繁，指滥用SAT大词，难，指随意飚长难句，为了降低读者的阅读负担，应把这些句式简化
-1. 恐怖统治一词本身已经成为典故，因此不必调整
+1. 恐怖统治一词本身，虽是热月党政治攻讦，但已成为典故，因此不必调整
 1. 法语文学读的较多的朋友应该都知道巴黎和外省的对立，已经是烂梗了，因此笔者将“各省”一概译为外省
 1. 原书p.xiv，`the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为“本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行”明显错误，应译为“本省基层的镇压机关，及充斥其中的好斗成员”
 1. 人物小传中，让邦·圣安德烈的`masterful`不应译为“专横”，而是“有掌控力”，或“能掌控局面”
@@ -32,6 +32,7 @@
     1. 虽然罗老师后来的行为，你说他是精神病也没什么大毛病，但是对于一个取得如此辉煌胜利的人，谩骂实在是有失客观，会降低谩骂者本人的可信度
 1. 原书p9，`But the real danger to France, and to the world as it turned out, was rather in the men of inflexible convictions, the conservatives who would accept no change, and the more heated patriots who would accept nothing short of their idea of perfection.`这个就直译了，作者是有屁股的，不必讳言，下略
 1. 让邦·圣安德烈的这个后缀名，如书中所说，是由于波旁王朝的宗教迫害政策强加的，因此笔者尽量简译为让邦，下同
+    1. 偏巧避免了笔者极其反对的译名中包含褒贬义汉字。。。
 1. 原书p12，`More than any other of the Twelve, Billaud gave intimations of the terrorist that he was to become.`感谢原译者把这段避讳了……
 1. 原书p14，`typical of the anonymous world that lies behind all revolutions.`这段的anonymous world就翻译成“普通人”（你要是高兴说第三等级也可以）就可以了，不必译为无名之辈，尽量使用中性词……
 
@@ -43,7 +44,7 @@
     1. 同理，保王党这个也是约定俗成了
 1. 用词的倾向性：
     1. 笔者在东三省边上长大，对于迪穆里埃叛逃，吉伦特乱党把土伦献给英国这种事，可以直接代入918，因此实在不能用“（迪穆里埃）脱离革命，投向反法联军”，“土伦港和那里全部的地中海舰队，拜不满的法国人所赐，落入了英国人之手”这种中性词评价
-    1. 内战就内战，胳膊肘往外拐实在太过分了
+    1. 内战就内战，胳膊肘往外拐实在太过分了，迪穆里埃就是叛变投敌，这个没啥说的
 1. `constituted authorities`这个机构的译名开放讨论，我个人认为可以翻译成合法当局，当然你也可以称之为地方政府（暴论）
     1. 巴黎公社很显然不是来源于法律授权。。。。。。
 1. `national guard`很显然是国民自卫军，约定俗成
@@ -123,8 +124,9 @@
     1. 这段是对科洛空想社会主义观点的讨论，首先tradesman在英文中就有多义，既可作手工业者义，也可作商人义，因此用小商人来概括就不够全面，应译为小私有者
     1. individualistic and free，指经济上的独立和自由经营，同理，depend on在这里指经济上的依赖
     1. 笔者翻译：在谴责富人的时候，显然他脑子里想的不是集体经济，而是一个由**同等规模的小私有者**组成的国家，他们**独立经营，拥有商业自由**，**每个**人的生存都**不依赖于他人**。这是一个梦想。
-1. 原书p159，你说富歇脾气火爆我就想乐，要是富歇真的脾气火爆，那后面一堆事都不会发生
-1. 原书p159，此处原书`Fouche a onetime professor of physics`有误，当时的物理学还没有发达到能在普通的修会搞出教授来的程度，富歇不过是修会里教科学的老师而已。
+1. 原书p159，你说富歇脾气火爆我就想乐，要是富歇真的脾气火爆，那后面一堆事都不会发生，况且富歇根本没被选进救国委员会。
+    1. 读了茨威格《富歇——一个政治家的肖像》之后，看到这段误译，不禁浮想联翩，眼里不揉沙子的理想主义者，罗伯斯庇尔罗老师，跟一以贯之毫无人格的富歇，在救国委员会里共事，这委员会还能救得了国？
+1. 原书p159，此处原书`Fouche a onetime professor of physics`有误，当时的物理学还没有发达到能在普通的修会搞出教授来的程度，富歇不过是修会里教科学的老师而已。修会，指Société de l'Oratoire de Jésus et de Marie。
 1. 原书p159，`Collot was a rake, Fouche a respectable family man.`这里的意思肯定不是“富歇出身于一个受人尊敬的家庭”，而是说，与一般认为此人毫无人格相反，此人很顾家。
     1. 此处的respectable应该视为是反讽，毕竟我真没听说过有人respect富歇
 1. 原书p165，`"The explosion of mines, etc., the devouring activity of flame can alone express the omnipotence of the people; its will cannot be checked like that of tyrants; it must have the effect of thunder." Collot might have recalled that thunder in itself is only a loud noise, which produces few effects except sometimes to turn milk sour.`原文末尾句纯属主观臆测，译文中删除。
@@ -146,10 +148,30 @@
 
 ### 第十章
 
-1. 原书p225：作者说革命法国是totalitarian state，我看还是美国人比较少见多怪……此处保持愿意，不做改动
+1. 原书p225：作者说革命法国是totalitarian state，我看还是美国人比较少见多怪……此处保持原意，不做改动
 1. 原书p225：在中文中，civilian，与官员、贵族相对时，可以译为平民，与军人相对时应译为文官
 1. 原书p225：nationalize应译为国有化
 1. 原书p227：兰代是救国委员会和供给委员会之间的联络人，而非公社……
+1. 原书p234：“虽然事实上，拉瓦锡”与后文逻辑矛盾，作者的逻辑是，确实拉瓦锡被迫害了，但是救国委员会十分重视科学技术
+1. 原书p235：`in some places the farmers gorged themselves on what they would not sell.`
+    1. 原翻译：有些地区的农民，甚至用他们无法出售的物品来充饥
+    1. 这个逻辑是不清晰的，这句话实际的意思是，农民因为商品流转不畅，而被迫用自己的产品充饥
+    1. 应译为：在有些地区，由于商品流转不畅，农民只好大吃特吃自己卖不出去的产品
+1. 原书p236：`Coal was increasingly important at the end of the eighteenth century because of the dwindling of the wood supply.`煤炭的等价代换很显然不是食品……
+1. 原书p237：`the regulation of canal boats and wagon trains`那时代没发明火车……
+1. 原书p237：bell指教堂大钟，而非铃铛
+1. 原书p239：wage rate就是工资，不是工资率，你可以理解成时薪
+1. 原书p242：`In February, facing a shortage of fuel, the Committee recalled from the army all those who, six months before the Levy in Mass, had worked at the production of wood or coal.`
+    1. 原翻译：在2月，由于面临燃料短缺，在战时总动员发布的6个月之前，委员会从军队召回了那些曾在木材和煤炭生产部门工作的人。
+    1. 此处原翻译时序错乱，1794年2月份是战时总动员Levée en masse的6个月之后，不可能是战时总动员6个月之前，倒确实是热月政变6个月之前
+    1. 应译为：在2月，由于面临燃料短缺，委员会从军队召回了那些在战时总动员发布之前的6个月内，曾在木材和煤炭生产部门工作的人。
+1. 原书p244：commune肯定不能译为人民公社。。。。。。。这个和我国的人民公社差别太大了
+1. 原书p244：`interfered with the operations of wholesalers whose large stores were subject to confiscation`，此处store应指批发商的仓储
+1. 原书p252：privation此处应该指精神上对艰难困苦的耐受
+1. 原书p253：`Others denounced a plot to starve the people and to overthrow the Convention, which was dominated, so they said, by foreigners and politicians of the Commune.`
+    1. 原翻译：其他人则谴责这是一场阴谋，是想让人民挨饿，以推翻他们所谓的外国人和政治家幕后操纵的救国委员会。
+    1. 此处混淆了commune巴黎公社和committee救国委员会，而且把which was dominated语序整个倒错
+    1. 应译为：其他人则谴责，这是由巴黎公社里所谓的“外国人和政客”幕后操纵的阴谋，是想让人民挨饿，以推翻国民公会。
 
 ### 第十一章
 
