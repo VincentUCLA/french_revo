@@ -170,10 +170,12 @@
 1. 原书p252：privation此处应该指精神上对艰难困苦的耐受
 1. 原书p253：`Others denounced a plot to starve the people and to overthrow the Convention, which was dominated, so they said, by foreigners and politicians of the Commune.`
     1. 原翻译：其他人则谴责这是一场阴谋，是想让人民挨饿，以推翻他们所谓的外国人和政治家幕后操纵的救国委员会。
-    1. 此处混淆了commune巴黎公社和committee救国委员会，而且把which was dominated语序整个倒错
+    1. 此处混淆了commune巴黎公社和committee救国委员会，而且把which was dominated语序整个倒错了
     1. 应译为：其他人则谴责，这是由巴黎公社里所谓的“外国人和政客”幕后操纵的阴谋，是想让人民挨饿，以推翻国民公会。
 
 ### 第十一章
+
+1. 1793年末，埃罗-塞谢勒已经被逐出救国委员会，此后用12委员形容救国委员会，属于事实性错误。
 
 ### 第十二章
 
