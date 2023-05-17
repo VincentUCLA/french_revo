@@ -177,7 +177,7 @@
 1. 原书p242：`In February, facing a shortage of fuel, the Committee recalled from the army all those who, six months before the Levy in Mass, had worked at the production of wood or coal.`
     1. 原翻译：在2月，由于面临燃料短缺，在战时总动员发布的6个月之前，委员会从军队召回了那些曾在木材和煤炭生产部门工作的人。
     1. 此处原翻译时序错乱，1794年2月份是战时总动员Levée en masse的6个月之后，不可能是战时总动员6个月之前，倒确实是热月政变6个月之前
-    1. 应译为：在2月，由于面临燃料短缺，委员会从军队召回了那些在战时总动员发布之前的6个月内，曾在木材和煤炭生产部门工作的人。
+    1. 应译为：在2月，由于面临燃料短缺，委员会从军队召回了那些在战时总动员发布之前的6个月内，曾参与过木材和煤炭生产工作的人。
 1. 原书p244：commune肯定不能译为人民公社。。。。。。。这个和我国的人民公社差别太大了
 1. 原书p244：`interfered with the operations of wholesalers whose large stores were subject to confiscation`，此处store应指批发商的仓储
 1. 原书p252：privation此处应该指精神上对艰难困苦的耐受
