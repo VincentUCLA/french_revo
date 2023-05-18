@@ -50,7 +50,7 @@
     1. 巴黎公社很显然不是来源于法律授权。。。。。。
 1. `national guard`很显然是国民自卫军，约定俗成
 1. 原书p40，`Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
-    1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇、法布尔·德·埃格郎蒂纳、丹东（大雾）之流一样拿革命做生意，我译为“革命里的小气手艺人”
+    1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇、法布尔·德·埃格朗蒂纳、丹东（大雾）之流一样拿革命做生意，我译为“革命里的小气手艺人”
     1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈（如坚决反对对外扩张、输出革命，etc），而罗老师认为巴雷尔虽然忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
     1. 实际上巴罗二人私交甚笃，这类话应该一概视为打情骂俏（逃走）
 
@@ -163,7 +163,6 @@
 
 1. 原书p225：作者说革命法国是totalitarian state，我看还是美国人比较少见多怪……此处保持原意，不做改动
 1. 原书p225：在中文中，civilian，与官员、贵族相对时，可以译为平民，与军人相对时应译为文官
-1. 原书p225：nationalize应译为国有化
 1. 原书p227：兰代是救国委员会和供给委员会之间的联络人，而非公社……
 1. 原书p234：“虽然事实上，拉瓦锡”与后文逻辑矛盾，作者的逻辑是，确实拉瓦锡被迫害了，但是救国委员会十分重视科学技术
 1. 原书p235：`in some places the farmers gorged themselves on what they would not sell.`
@@ -189,6 +188,19 @@
 ### 第十一章
 
 1. 1793年末，埃罗-塞谢勒已经被逐出救国委员会，此后用12委员形容救国委员会，属于事实性错误。
+1. 原书p256：此处personal ascendancy应指个人威望，而非权势
+1. 原书p258：a kind of child in politics，指德穆兰在政治中只能算个小孩
+    1. 众所周知，德穆兰是罗老师的学弟，年纪只小两岁
+1. 原书p258：temperamental pamphleteer，应指德穆兰的小册子，“笔锋常带感情”（梁启超语）
+1. 原书p261：`had demanded that the constitution of the preceding July be put into effect`，众所周知，1793年宪法，制定于1793年，不可能是1793年的前年
+1. 中文词语辨析：第五章开头曾提及，雅各宾俱乐部的会议会持续到晚上10点，应该认为在“晚间”（evening）开会，而救国委员会的会议在夜间（night）
+1. 原书p264：war of liberty against its enemies不应指自由战争，而是自由的战争，此处可译为“自由对抗其敌人的战争”
+1. 原书p265：provincial lawyer from Arras，阿拉斯也说不上乡下……应译为外省
+1. 原书p266：`And yet, in his account of foreign machinations there was a tone of almost psychopathic delusion, very different from the sober and sensible explanation of the difference between constitutional and revolutionary government.`
+    1. 原翻译：然而，在罗伯斯庇尔那一堆所谓外国阴谋的叙述中，有一种几近于精神病的妄想腔调，他关于立宪政府和革命政府之间差异的解释，**和其他清醒明智的**解释非常不同。
+    1. 此处语序完全错误，对外国阴谋论的妄想，与他清晰明智的解释非常不同，而不是他的解释和清晰明智的解释不同。
+    1. 笔者翻译：然而，在罗伯斯庇尔那一堆所谓外国阴谋的叙述中，有一种几近于精神疾病的妄想腔调，**和他**对于立宪政府和革命政府之间差异的清晰明智的解释非常不同。
+1. 原书p266：constitutional rule应译为实行宪政
 
 ### 第十二章
 
