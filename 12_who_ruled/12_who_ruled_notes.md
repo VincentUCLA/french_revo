@@ -201,6 +201,12 @@
     1. 此处语序完全错误，对外国阴谋论的妄想，与他清晰明智的解释非常不同，而不是他的解释和清晰明智的解释不同。
     1. 笔者翻译：然而，在罗伯斯庇尔那一堆所谓外国阴谋的叙述中，有一种几近于精神疾病的妄想腔调，**和他**对于立宪政府和革命政府之间差异的清晰明智的解释非常不同。
 1. 原书p266：constitutional rule应译为实行宪政
+1. 原书p269：`Robespierre was trying to lift denunciation to the level of politics, to generalize arguments which the Jacobins (the more so perhaps because they were Frenchmen) insisted upon making personal.`
+    1. 原翻译：罗伯斯庇尔试图将谴责提升到政治层面，把雅各宾派（可能因为他们是法国人，更会如此）坚持的论点加以概括。
+    1. 此处arguments联系上下文，没有论点的含义，而是指争论
+    1. 笔者翻译：罗伯斯庇尔试图把谴责提升到政治层面，以概括雅各宾派内部的争论，而非坚持人身攻击（可能因为他们是法国人，更会如此）。
+1. 原书p276：popular government应避免和中文中固定词组“人民政府”相混淆，此处罗指代的是一种大众民主政府，在阅读时也应避免和representative government代议制民主政府相混淆，同样也区别于直接民主。
+1. 原书p277：bootstrap，在工程领域指自举，在此处可以理解成循环论证，后半句话应该解释其循环论证
 
 ### 第十二章
 
