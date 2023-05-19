@@ -229,6 +229,19 @@
 
 ### 第十三章
 
+1. Culmination在英文中指顶点，此处暗喻，在顶点后，接下来的就是垮台。
+1. 原书p313：artisans指手工业者，工匠一词不确
+1. 原书p313：rally the lowest classes to the Republic，此处rally应指拥护，翻译成召集，不确。
+1. 原书p313：`Of the four-fifths of the population who were peasants the problems were even less understood.`，此处of指problems of，因此指救国委员会更不了解农民的问题
+1. 原书p314：`The Ventose policy in the end, far from winning support for the government`
+    1. 原翻译：最后风月政策非但没有赢得政府的支持
+    1. 此处winning support for the gov应译为没有给政府赢得支持
+1. 词语辨析：霜月14日法令中规定的L'agent national既然是上级机关下派到地方的代表，应译为政府代表，以避免与国民公会代表相混淆
+1. 原书p331：planned by art，考虑到雅克·路易·大卫是伟大的画家，不应译为矫饰，应译为用艺术规划。
+1. 原书p331：`The philosophes would not have enjoyed the festival of Prairial`，would作为英文中的情态动词，表推测，此处联系下文，虽然表示否定，但并不绝对，译为不会并不贴切，应按照汉语习惯，译为不一定
+1. 原书p333：`Popular with the small revolutionaries (as even his enemies admitted), and counting on this popularity to strengthen himself against rival political leaders`，联系下文，此处small revolutionaries应指代普罗大众
+1. 原书p333：同理，下一句话中的popularity应指“群众对他的拥护”，译为“他的支持”，再次犯了主动被动颠倒的错误
+
 ### 第十四章
 
 ### 第十五章

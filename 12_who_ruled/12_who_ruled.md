@@ -33,7 +33,7 @@
 1. [指令经济](./12_who_ruled_chapter10.md)
 1. [寻找窄路](./12_who_ruled_chapter11.md)
 1. [风月风波](./12_who_ruled_chapter12.md)
-1. [高潮](./12_who_ruled_chapter13.md)
+1. [顶点](./12_who_ruled_chapter13.md)
 1. [欧洲热潮](./12_who_ruled_chapter14.md)
 1. [热月](./12_who_ruled_chapter15.md)
 1. [终曲](./12_who_ruled_coda.md)
