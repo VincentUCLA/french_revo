@@ -3,8 +3,8 @@
 > 这样陌生的云彩驱赶者，世界从未见识过。
 ——卡莱尔《法国大革命》，1837年
 
-1. 伯特兰·巴雷尔，生于1755年，“断头台前的阿纳克利翁[^1]”，一个律师家庭出身的律师，为人随和亲切，工作勤恳，辩才无碍。
-1. 让-尼古拉·比约-瓦伦，生于1756年，律师，也是一个律师之子，作家、宣传家，脾气急躁，喜欢大喊大叫。
+1. 贝特朗·巴雷尔，生于1755年，“断头台前的阿纳克利翁[^1]”，一个律师家庭出身的律师，为人随和亲切，工作勤恳，辩才无碍。
+1. 雅克-尼古拉·比约-瓦伦，生于1756年，律师，也是一个律师之子，作家、宣传家，脾气急躁，喜欢大喊大叫。
 1. 拉扎尔·卡诺，生于1753年，军官、工程师、数学家、坚定的爱国者，“胜利组织者”。
 1. 让-马里·科洛·德布瓦，生于1750年，演员、剧作家，自学成才，粗俗、易激动。
 1. 乔治·库东，生于1756年，律师、人道主义者，有家室，瘫痪、不能行走。
@@ -53,7 +53,7 @@
 1790年国民制宪议会订立的83个新省（department）地图
 
 （departments划界古今流变不大，1790年时巴黎没有分的那么细）
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg/2440px-Vidal-Lablache_n%C2%B09_-_Provinces_en_1789.jpg
+
 ![83新省地图](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D%C3%A9partements_et_provinces_de_France.svg/2190px-D%C3%A9partements_et_provinces_de_France.svg.png?uselang=fr)
 
 法国地形图

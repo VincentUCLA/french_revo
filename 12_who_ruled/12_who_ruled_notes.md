@@ -18,6 +18,7 @@
 1. 恐怖统治一词本身，虽是热月党政治攻讦，但已成为典故，因此不必调整
 1. 原翻译中有较多处，按照中文语序理解较为拗口，均按照常见中文语序进行调整
 1. 法语文学读的较多的朋友应该都知道巴黎和外省的对立，已经是烂梗了，因此笔者将“各省”一概译为外省
+1. 8月10日起义应避免译为“二次革命”，避免与我国历史事件相混淆
 1. 原书p.xiv，`the ground-level institutions of repression in the department, and the local clienteles of militants who staffed them`译为“本省那些负责镇压的机关的底线，以及那些充斥其间、好斗成性的主顾们的品行”明显错误，应译为“本省基层的镇压机关，及充斥其中的好斗成员”
 1. 人物小传中，让邦·圣安德烈的`masterful`不应译为“专横”，而是“有掌控力”，或“能掌控局面”
     1. 在这么一票人里，论专横，让邦连前一半都排不进去（正论）
@@ -49,6 +50,8 @@
 1. `constituted authorities`这个机构的译名开放讨论，我个人认为可以翻译成合法当局，当然你也可以称之为地方政府（暴论）
     1. 巴黎公社很显然不是来源于法律授权。。。。。。
 1. `national guard`很显然是国民自卫军，约定俗成
+1. 未能找到一名名为Roussillon的科德利埃俱乐部领袖，此处保留原文
+1. 克雷基侯爵夫人（Marquise de Créquy，1714-1803），卢梭的朋友，在恐怖统治时期被捕，此处原文有误。
 1. 原书p40，`Barere had never been an admirer; he had once cautioned against "raising pedestals to pygmies," meaning Robespierre; and had called him a "petty tradesman in revolutions". Robespierre, for his part, publicly declared Barere to be a good patriot but a weakling. It is to the credit of both that they could cooperate at all.`
     1. 原译者说巴雷尔骂罗老师“小里小气的革命生意人”，有误，罗老师是众所周知的清廉，“不可腐蚀者”，自然不会像巴拉斯、塔里安、富歇、法布尔·德·埃格朗蒂纳、丹东（大雾）之流一样拿革命做生意，我译为“革命里的小气手艺人”
     1. 我个人的理解是，巴雷尔和罗老师，一个来自法国最南方，一个来自法国最北方，是典型的南北矛盾，巴雷尔认为罗老师革命主张太过实际，不够豪迈（如坚决反对对外扩张、输出革命，etc），而罗老师认为巴雷尔虽然忠于革命，在政治上却过于灵活（我也不会认为巴雷尔算见风使舵……）
