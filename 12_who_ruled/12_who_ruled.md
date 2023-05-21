@@ -37,7 +37,9 @@
 1. [欧洲热潮](./12_who_ruled_chapter14.md)
 1. [热月](./12_who_ruled_chapter15.md)
 1. [终曲](./12_who_ruled_coda.md)
-1. [前言](./12_who_ruled_preface.md)
+1. [序言](./12_who_ruled_preface.md)
+1. [译名对照表](./12_who_ruled_names.md)
+1. [参考书目](./12_who_ruled_note_bibliographical.md)
 1. [校对者笔记](./12_who_ruled_notes.md)
 
 ## 参考地图
