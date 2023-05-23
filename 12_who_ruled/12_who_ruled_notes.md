@@ -55,7 +55,9 @@
     1. shop在手工业中应指手工作坊，而非商店。众所周知，18世纪机器工业仍处于萌芽，普遍是手工作坊
     1. 同理，small arms指轻武器，而非“小件武器”
     1. locksmith是锁匠，钳工也是19世纪才有的工作
-1. 词语辨析：radical在法国政治语境下，应译为激进，而非极端，如第三共和国的激进党
+1. 词语辨析：
+    1. radical在法国政治语境下，应译为激进，而非极端，如第三共和国的激进党
+    1. extreme与之相对，应译为极端
 1. 词语辨析：除非有实践行为，尽量不使用中文中已经有感情色彩的词，如“反革命”。
     1. 此处指瑞士保守主义思想家，马莱·杜潘
 1. 词语辨析：一切英制单位均已换算成公制。
@@ -295,7 +297,20 @@
 1. 原书p373：spectral memory that drove men weary of the Terror，此处的weary of Terror，作定语，与后文最暴力的恐怖统治者，形成并列关系
 1. 原书p376：integrity of the Convention，此处指团结、统一
 1. 原书p376：endless circle of personalities，此处指人身攻击结下的循环，不是指个人崇拜
-
+1. 原书p382：Thermidor reaction已经成为典故，应译为热月反动
+1. 原书p384：大家都知道卡里耶和富基耶-坦维尔是因为恐怖时期的所作所为被处死的，此处“在恐怖时期受到审判”为误译。
+1. 原书p385：`And it launched the Revolutionary offensive against the old order beyond the French frontiers, preached unsuccessfully by Girondists in 1792.`
+    1. 原翻译：1792年，它在法国边境以外对吉伦特派鼓吹的旧秩序发动了革命攻势。
+    1. 此处翻译时序错乱，事实有误，吉伦特派从未鼓吹过旧秩序。对境外的攻势是在1794年。
+    1. 应译为：救国委员会对法国边境以外的旧秩序发动了革命攻势，1792年吉伦特派鼓吹过这一攻势，但他们兵败身死。
+1. 原书p386：state religion指国教，即罗的最高主宰崇拜
+1. 原书p386：parliamentary rule指议会治国
+1. 原书p386：说1793-1794年实现了全民民主明显是误译，这只是看问题的一个角度，山岳派只是实现了理念上的民主，实际操作中他们一次选举都没搞
+1. 原书p386：`the democracy of individual liberties and representative government`
+    1. 原翻译：个人自由和代议制政府的民主
+    1. 联系全书，此处指个人自由的民主vs代议制政府
+    1. 应译为：个人自由的民主和代议制政府
+1. 原书p386：organized leaders此处既指罗老师美德共和国的蓝图，因此应当翻译出胸有成竹，也指杰出的技术官僚们，兰代、卡诺、让邦和两个普里厄的勤恳工作，应当保留组织有素的意思。
 
 ### 终曲
 
