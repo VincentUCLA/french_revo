@@ -294,7 +294,7 @@
 1. 原书p372：state此处指政府
 1. 原书p373：spectral memory that drove men weary of the Terror，此处的weary of Terror，作定语，与后文最暴力的恐怖统治者，形成并列关系
 1. 原书p376：integrity of the Convention，此处指团结、统一
-1. 原书p376：endless circle of personalities，此处指人身攻击结下的循环，绝不是指个人崇拜
+1. 原书p376：endless circle of personalities，此处指人身攻击结下的循环，不是指个人崇拜
 
 
 ### 终曲
