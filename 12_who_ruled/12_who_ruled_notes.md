@@ -283,6 +283,14 @@
 
 ### 第十五章
 
+1. 原书p361：permanent regime此处permanent指长期，而非永久。regime不应译为政权，英语中regime特指威权、独裁政府。
+1. 原书p361：the Committee collapsed in a kind of palace revolution，此处暗喻英国的光荣革命，指宫廷政变。
+1. 原书p361：personalities此处指个人崇拜，应按照中文习惯调整为领袖。同理，前文fascist principle of leadership，指领袖原则
+1. 原书p364：high-hands为英式英语，词典里的释义是condescending or presumptuous; overbearing; arbitrary，或an oppressive or dictatorial manner。
+1. 原书p367：future life联系上文的martyrdom殉道，指来生。
+1. 原书p367：in the ages and in the heavens，指岁月和天国，而非在世时。
+
+
 ### 终曲
 
 1. 本章中出现的政府机关，大多有约定俗成译名，为避免读者混淆，应沿袭约定俗成译名
