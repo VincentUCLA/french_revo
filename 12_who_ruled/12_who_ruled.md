@@ -92,4 +92,10 @@
 
 ![弗勒吕斯大捷邮票](https://upload.wikimedia.org/wikipedia/commons/d/d6/Early_flight_02562u_%2810%29.jpg)
 
+六月一日海战
+
+![六月一日海战](https://upload.wikimedia.org/wikipedia/commons/d/df/Loutherbourg-La_Victoire_de_Lord_Howe.jpg)
+
+![六月一日海战](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/June_1_1794_Order_of_Battle_Map_EN.svg/2560px-June_1_1794_Order_of_Battle_Map_EN.svg.png)
+
 [^1]: 古希腊著名抒情诗人
