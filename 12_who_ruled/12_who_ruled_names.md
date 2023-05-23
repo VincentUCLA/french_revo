@@ -667,6 +667,7 @@
 #### 第十三章
 
 - métayage，对分佃耕制
+- Timoléon，蒂莫莱翁
 - Police Bureau，警察总局
 - École de Mars，战神学院
 - École normale supérieure，巴黎高等师范学院
