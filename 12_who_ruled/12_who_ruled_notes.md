@@ -289,6 +289,7 @@
 1. 原书p364：high-hands为英式英语，词典里的释义是condescending or presumptuous; overbearing; arbitrary，或an oppressive or dictatorial manner。
 1. 原书p367：future life联系上文的martyrdom殉道，指来生。
 1. 原书p367：in the ages and in the heavens，指岁月和天国，而非在世时。
+1. 原书p370：sitting virtuously at home属于只有出现在罗老师身上才能成话的语言，此处按原文翻译，大家懂的自然懂
 
 
 ### 终曲
