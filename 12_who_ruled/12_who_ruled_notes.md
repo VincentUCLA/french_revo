@@ -283,6 +283,7 @@
 
 ### 第十五章
 
+1. 本章中两委员会已经成为历史典故，故一概用这个词指代两个掌权委员会
 1. 原书p361：permanent regime此处permanent指长期，而非永久。regime不应译为政权，英语中regime特指威权、独裁政府。
 1. 原书p361：the Committee collapsed in a kind of palace revolution，此处暗喻英国的光荣革命，指宫廷政变。
 1. 原书p361：personalities此处指个人崇拜，应按照中文习惯调整为领袖。同理，前文fascist principle of leadership，指领袖原则
@@ -290,6 +291,10 @@
 1. 原书p367：future life联系上文的martyrdom殉道，指来生。
 1. 原书p367：in the ages and in the heavens，指岁月和天国，而非在世时。
 1. 原书p370：sitting virtuously at home属于只有出现在罗老师身上才能成话的语言，此处按原文翻译，大家懂的自然懂
+1. 原书p372：state此处指政府
+1. 原书p373：spectral memory that drove men weary of the Terror，此处的weary of Terror，作定语，与后文最暴力的恐怖统治者，形成并列关系
+1. 原书p376：integrity of the Convention，此处指团结、统一
+1. 原书p376：endless circle of personalities，此处指人身攻击结下的循环，绝不是指个人崇拜
 
 
 ### 终曲
