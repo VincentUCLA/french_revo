@@ -13,11 +13,15 @@ jobs:
           cp README.md Home.md
           sed -i 's/.md//g' Home.md
           sed -i 's/.md//g' 12_who_ruled/12_who_ruled.md
+          sed -i 's/.md//g' mémoires_de_charlotte_robespierre/mémoires_de_charlotte_robespierre.md
+          sed -i 's/.md//g' joseph_fouché/joseph_fouché.md
           sed -i 's/12_who_ruled\///g' Home.md
+          sed -i 's/mémoires_de_charlotte_robespierre\///g' Home.md
+          sed -i 's/joseph_fouché\///g' Home.md
       - name: Sync with local action
         uses: kai-tub/external-repo-sync-action@v1
         with:
           source-directory: "."
-          include-patterns: "Home.md 12_who_ruled/*.md"
+          include-patterns: "Home.md 12_who_ruled/*.md mémoires_de_charlotte_robespierre/*.md joseph_fouché/*.md"
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_PAT }}
