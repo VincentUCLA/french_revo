@@ -575,7 +575,6 @@
 - royalisme，保王党
 - sans-culotte，无套裤汉
 - Éléments du républicanisme，共和主义要素
-- Loi du Maximum général，反囤积法
 
 #### 第三章
 
