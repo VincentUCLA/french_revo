@@ -498,6 +498,7 @@
 - Marly，马尔利，市内地名
 - Bois de Boulogne，布洛涅林苑，市内地名
 - Champ-de-Mars，战神广场，市内地名
+- Champ de Réunion，团结广场，市内地名
 
 #### 第十四章
 
@@ -566,6 +567,7 @@
 - Enragés，忿激派
 - Bourgeoisie，布尔乔亚
 - Marais，平原派
+- ward，选区
 - Comité de surveillance，监察委员会
 - Conseil Exécutif，政务院
 - Garde Nationale，国民自卫军
@@ -661,13 +663,14 @@
 
 #### 第十二章
 
-- institutions républicaines，共和制度
+- institutions républicaines，共和制度论
 
 #### 第十三章
 
 - métayage，对分佃耕制
 - Timoléon，蒂莫莱翁
 - Police Bureau，警察总局
+- Commissions exécutives，政务委员会
 - École de Mars，战神学院
 - École normale supérieure，巴黎高等师范学院
 
