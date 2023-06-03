@@ -74,7 +74,7 @@
 
 #### 第二章
 
-- Charles-François Dumouriez，夏尔·弗朗索瓦·迪穆里埃，陆军军官
+- Charles-François Dumouriez，夏尔-弗朗索瓦·迪穆里埃，陆军军官
 - Marquis de La Fayette，拉法耶特侯爵，陆军军官
 - Jean-Marie Roland，让-马里·罗兰，吉伦特派人物
 - Jacques Pierre Brissot，雅克·皮埃尔·布里索，吉伦特派人物
