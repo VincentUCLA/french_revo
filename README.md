@@ -3,3 +3,4 @@
 - [12人统治者：法国大革命的恐怖时代](./12_who_ruled/12_who_ruled.md)
 - [富歇：一个政治家的肖像](./joseph_fouché/joseph_fouché.md)
 - [阿尔贝·索布尔《法国大革命史》](./albert_soboul/albert_soboul.md)
+- [卢梭：一个孤独漫步者的遐思](./reveries_of_the_solitary_walker/reveries_of_the_solitary_walker.md)
