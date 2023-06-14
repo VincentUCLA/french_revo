@@ -47,4 +47,4 @@
 1. [译者前言](./marie_antoinette_note.md)
 1. [引言](./marie_antoinette_prelude.md)
 1. [后记](./marie_antoinette_conclude.md)
-1. [玛丽·安托瓦内特年表](./marie_antoinette_years.md)
+1. [玛丽-安托瓦内特年表](./marie_antoinette_years.md)
